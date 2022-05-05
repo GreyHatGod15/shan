@@ -33,15 +33,3 @@ input how many apples does bob have?:
 ```
 
 
-## Installing packages
-
-To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below:
-```python
-print("")
-```
-
-You could also install packages by using the Replit packager interface in the left sidebar.
-
-## Help
-
-If you need help you might be able to find an answer on our [docs](https://docs.replit.com) page. Feel free to report bugs and give us feedback [here](https://replit.com/support).
